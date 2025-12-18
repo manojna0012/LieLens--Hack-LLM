@@ -1,4 +1,4 @@
-# LieLens – Context-Aware Deception Detection(HACK LLM)
+# LieLens – Context-Aware Deception Detection (HACK LLM)
 
 LieLens is a contextual deception detection system designed for **Diplomacy-like multi-agent communication**, where players negotiate, make promises, and betray alliances.  
 The system goes beyond surface-level text classification by **tracking commitments and checking their consistency over time**.
